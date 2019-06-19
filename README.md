@@ -2,7 +2,7 @@
 
 ## set alias
 ```
-ioctl set vita io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw
+ioctl alias set vita io1hp6y4eqr90j7tmul4w2wa8pm7wx462hq0mg4tw
 ```
 
 ##  claim
