@@ -16,7 +16,12 @@ ioctl action invoke vita 0 -b  4e71d92d -l 200000 -p 1 -s [your wallet alias]
 # need latest build, try install `ioctl update -t unstable`
 ioctl xrc20 balanceOf [account] -c vita
 ```
-## also transfer etc using `ioctl xrc20 [xxx]`
+
+## transfer vita
+```
+# need latest build, try install `ioctl update -t unstable`
+ioctl xrc20 transfer [target] 100 -c vita -s [signer]
+```
 
 ## bid 
 ```
